@@ -1,0 +1,7 @@
+LastName          PreviousBalance        Payments     Charges
+Allen                  5000.00            0.00         200.00
+Davis                  2150.00          150.00           0.00
+Fisher                 3400.00          400.00         100.00
+Navarez                 625.00          125.00          74.00
+Stiers                  820.00            0.00           0.00
+Wyatt                  1070.00          200.00          45.00
