@@ -1,0 +1,31 @@
+{
+  "id": "d3661c07-d528-42a8-962f-da70c9e6cb7b",
+  "name": "stomach",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "stomach ache",
+      "synonyms": [
+        "stomach ache",
+        "nauseous",
+        "stomach problem",
+        "stomach pain",
+        "stomach"
+      ]
+    },
+    {
+      "value": "Y",
+      "synonyms": [
+        "Y"
+      ]
+    },
+    {
+      "value": "N",
+      "synonyms": [
+        "N"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

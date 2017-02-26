@@ -1,0 +1,21 @@
+{
+  "id": "c2809479-402d-44b8-9e17-195671f940a6",
+  "name": "help",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "yes",
+      "synonyms": [
+        "yes"
+      ]
+    },
+    {
+      "value": "no",
+      "synonyms": [
+        "no"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,398 @@
+{
+  "userSays": [
+    {
+      "id": "5c09ddc9-3676-42b3-93d9-de2e02897d5a",
+      "data": [
+        {
+          "text": "help me please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7ce06830-5aa4-4d8f-9807-35dccd85150b",
+      "data": [
+        {
+          "text": "help me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f182872-e95c-4db4-a30f-f2323495de4e",
+      "data": [
+        {
+          "text": "i "
+        },
+        {
+          "text": "need",
+          "alias": "assist",
+          "meta": "@assistance",
+          "userDefined": false
+        },
+        {
+          "text": " an ambulance"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a948b880-2e06-4d66-ac9d-1b78f13e99e7",
+      "data": [
+        {
+          "text": "i "
+        },
+        {
+          "text": "need",
+          "alias": "assist",
+          "meta": "@assistance",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "assistance",
+          "alias": "assist1",
+          "meta": "@assistance",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6fc84291-10bf-4d69-9e7c-b08c7a4bf424",
+      "data": [
+        {
+          "text": "i "
+        },
+        {
+          "text": "need",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "help",
+          "alias": "assist",
+          "meta": "@assistance",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f14e3345-6508-408e-939d-ac3fbe1cd932",
+      "data": [
+        {
+          "text": "my friend "
+        },
+        {
+          "text": "needs",
+          "alias": "assist",
+          "meta": "@assistance",
+          "userDefined": false
+        },
+        {
+          "text": " help"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ed84ce5-9c3a-4ee1-b31e-8857160c27fa",
+      "data": [
+        {
+          "text": "my friend isnt moving"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "65ab8748-6cef-4c7a-8253-562adc4a4bcf",
+      "data": [
+        {
+          "text": "my friend isnt breathing"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "966ba92a-516b-40f1-87c6-42ed7b61c6f7",
+      "data": [
+        {
+          "text": "yes",
+          "alias": "help",
+          "meta": "@help",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "0b04c521-5e1a-47c7-852e-36019b130a89",
+      "data": [
+        {
+          "text": "i have a problem with my "
+        },
+        {
+          "text": "stomach",
+          "alias": "stomach",
+          "meta": "@stomach",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "def7b1a0-18b2-46ea-8a6e-8870e84dd0d4",
+      "data": [
+        {
+          "text": "i have a "
+        },
+        {
+          "text": "stomach ache",
+          "alias": "stomach",
+          "meta": "@stomach",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e42eceb-046c-4cec-8829-bd960b3ead33",
+      "data": [
+        {
+          "text": "my friend is "
+        },
+        {
+          "text": "sick",
+          "alias": "sick",
+          "meta": "@sick",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "784d5e8c-9ff2-4534-a0cc-74d46a71e81f",
+      "data": [
+        {
+          "text": "urgent",
+          "alias": "Urgent",
+          "meta": "@Urgent",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4891f17-c1a9-4193-9c16-0fd174b4096b",
+      "data": [
+        {
+          "text": "my friend is "
+        },
+        {
+          "text": "hurt",
+          "alias": "injured",
+          "meta": "@injured",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "38067dec-e70c-47af-8514-542c86f37e9e",
+      "data": [
+        {
+          "text": "assistance",
+          "alias": "assist",
+          "meta": "@assistance",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6e212b89-2064-4de8-afd6-01b46492723d",
+      "data": [
+        {
+          "text": "in need",
+          "alias": "assist",
+          "meta": "@assistance",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7cc8c7db-c893-45d4-894e-e1f2699b3ea1",
+      "data": [
+        {
+          "text": "help",
+          "alias": "assist",
+          "meta": "@assistance",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    }
+  ],
+  "id": "df090a9e-3eaa-4a24-8c89-4d0a7a98476d",
+  "name": "Help.Text",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "help.text",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@assistance",
+          "name": "assist",
+          "value": "$assist",
+          "prompts": [
+            "Do you need help? Answer with Yeah."
+          ],
+          "isList": false
+        },
+        {
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "username",
+          "value": "$username",
+          "prompts": [
+            "whats the person\u0027s name that needs help?"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@help",
+          "name": "help",
+          "value": "$help",
+          "prompts": [
+            "is $username breathing?Answer with Yes/No"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@Urgent",
+          "name": "Urgent",
+          "value": "$Urgent",
+          "prompts": [
+            "Is $username awake?Answer with yup or no"
+          ],
+          "isList": false
+        },
+        {
+          "required": true,
+          "dataType": "@sick",
+          "name": "sick",
+          "value": "$sick",
+          "prompts": [
+            "What kind of sick are you or your friend?Drunk or unconscious?"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@injured",
+          "name": "injured",
+          "value": "$injured",
+          "prompts": [
+            "how serious is this?"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@stomach",
+          "name": "stomach",
+          "value": "$stomach",
+          "prompts": [
+            "would you like me to contact emergency services for you?Answer with Y"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@sys.street-address",
+          "name": "address",
+          "value": "$address",
+          "prompts": [
+            "What is your address?"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "city",
+          "value": "$city",
+          "prompts": [
+            "what city?"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@sys.geo-state-us",
+          "name": "state",
+          "value": "$state",
+          "prompts": [
+            "state?"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@assistance",
+          "name": "assist1",
+          "value": "$assist1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "This is a serious case, Tell $username to hang in there if its possible.  I will be contacting 911 for you. They will be coming to your address at: $address, $city, $state .  It is $date at $time.  In the mean time, use these links to help your friend with being drunk : http://www.wikihow.com/Take-Care-of-a-Drunk-Person.  CPR is required for not breathing and not awake, preform the following steps in the link until medical services arrive: http://www.redcross.org/take-a-class/cpr/perfoming-cpr/cpr-steps",
+            null,
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

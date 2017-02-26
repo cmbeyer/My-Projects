@@ -1,0 +1,25 @@
+{
+  "id": "166c808f-6a35-407c-8f12-619f9de29739",
+  "name": "injured",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "injured",
+      "synonyms": [
+        "injured",
+        "hurt",
+        "damaged",
+        "cut up",
+        "bleeding"
+      ]
+    },
+    {
+      "value": "very serious",
+      "synonyms": [
+        "very serious"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

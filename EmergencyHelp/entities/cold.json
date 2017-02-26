@@ -1,0 +1,19 @@
+{
+  "id": "ad5f90e0-4dbb-44c7-a2a6-be6c209e1013",
+  "name": "cold",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "cold",
+      "synonyms": [
+        "cold",
+        "sneezing",
+        "coughing",
+        "runny nose",
+        "sore throat"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

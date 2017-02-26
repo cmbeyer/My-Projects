@@ -1,0 +1,43 @@
+{
+  "id": "912a93cb-d933-44ef-a087-7bbb554c3db5",
+  "name": "assistance",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "assist",
+      "synonyms": [
+        "assistance",
+        "in need",
+        "need",
+        "emergency",
+        "urgent"
+      ]
+    },
+    {
+      "value": "drunk",
+      "synonyms": [
+        "drunk"
+      ]
+    },
+    {
+      "value": "sick",
+      "synonyms": [
+        "sick"
+      ]
+    },
+    {
+      "value": "injured",
+      "synonyms": [
+        "injured"
+      ]
+    },
+    {
+      "value": "yeah",
+      "synonyms": [
+        "yeah"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

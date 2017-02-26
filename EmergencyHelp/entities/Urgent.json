@@ -1,0 +1,33 @@
+{
+  "id": "0efb32ef-8d85-4214-a33b-039c5693cf23",
+  "name": "Urgent",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "urgent",
+      "synonyms": [
+        "urgent",
+        "emergency",
+        "imediate",
+        "not breathing",
+        "still",
+        "pale",
+        "dead"
+      ]
+    },
+    {
+      "value": "yup",
+      "synonyms": [
+        "yup"
+      ]
+    },
+    {
+      "value": "no",
+      "synonyms": [
+        "no"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

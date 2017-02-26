@@ -1,0 +1,51 @@
+{
+  "id": "c6517bdc-0720-4e6a-a1ae-8576cf8ea334",
+  "name": "sick",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "sick",
+      "synonyms": [
+        "sick",
+        "ill",
+        "unwell",
+        "off",
+        "under the weather",
+        "flushed",
+        "not feeling good"
+      ]
+    },
+    {
+      "value": "drunk",
+      "synonyms": [
+        "drunk"
+      ]
+    },
+    {
+      "value": "cold",
+      "synonyms": [
+        "cold"
+      ]
+    },
+    {
+      "value": "flu",
+      "synonyms": [
+        "flu"
+      ]
+    },
+    {
+      "value": "injured",
+      "synonyms": [
+        "injured"
+      ]
+    },
+    {
+      "value": "unconscious",
+      "synonyms": [
+        "unconscious"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
