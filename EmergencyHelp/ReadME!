@@ -1,0 +1,4 @@
+This project was created using json, that i made for a hackathon i attended.  I made this project solo.  
+The purpose of this project is to have a number to text in case of an emergency, and it will walk you through step by step 
+what to do in case of something.  I have it linked up to a twilio phone number.  If you would like to try your self the phone
+number is 908-266-6164.  Text this for responses.
